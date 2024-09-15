@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt update
-sudo apt install -y zsh git curl
+sudo apt install -y zsh git curl age
 
 # Poetry
 curl -sSL https://install.python-poetry.org | python3 -
